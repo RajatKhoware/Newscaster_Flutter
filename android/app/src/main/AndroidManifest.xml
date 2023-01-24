@@ -4,7 +4,7 @@
     
    <application
         android:usesCleartextTraffic="true"
-        android:label="market_news"
+        android:label="Newscaster"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         

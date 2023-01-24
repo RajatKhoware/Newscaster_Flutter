@@ -3,7 +3,7 @@ const introText =
     '"Discover the story behind our news app and the challenges we faced in bringing it to life."';
 
 const String aboutText =
-    '''As a self-taught developer, I have always been driven by a desire to learn and create. I have a passion for technology and a curiosity that pushes me to constantly seek out new challenges and opportunities to improve my skills.
+    '''Hey there my name is Rajat khoware, As a self-taught developer, I have always been driven by a desire to learn and create. I have a passion for technology and a curiosity that pushes me to constantly seek out new challenges and opportunities to improve my skills.
 \nI currently live in Indore and am completing my eighth semester of electrical engineering. In my free time, I love to read books and learn about new technologies. I am also a musician and enjoy playing the guitar.
 \nOver the years, I have taught myself a variety of programming languages and frameworks, and have worked on a range of projects, from simple websites to complex mobile applications. And while I have faced my fair share of challenges along the way, I have always been willing to put in the hard work and dedication needed to succeed.
 \nOne of my most recent projects was a news app that I built using Flutter, a powerful mobile application development framework. It was a challenging and rewarding project that tested my skills and pushed me to learn more about Flutter and mobile app development. In the end, I was able to create a finished product that I was proud of, and I gained a lot of valuable experience and knowledge in the process.
@@ -20,12 +20,10 @@ const String desginProcessText =
 
 const challengesFacedText =
     '''As I worked on my news app, I faced a number of challenges that tested my skills as a developer. One of the biggest challenges I faced was finding a good UI for the app. I wanted to create a minimal and trendy UI, but it was difficult to come up with a design that would be both visually appealing and functional.
+\nOnce I had a design in mind, I started working on implementing it. At first, things went smoothly and I was able to make good progress. But when it came time to integrate the API, I hit a snag. I was able to get the correct responses from the API, but displaying the data in the different parts of the UI was much more difficult. With more than seven categories to display, as well as a search feature and news by country support, it was a challenge to manage all the different elements and make sure everything was working properly.
+\nI also ran into a simple error that took me two days to solve. It was a null data error that I couldn't figure out at first. But after investing a lot of time and effort into solving it, I finally realized that I just had to use some simple if-else conditions to fix the problem.
+\nOverall, working on my news app was a challenging and rewarding experience. Despite the difficulties I faced, I was able to create a finished product that I was proud of, and I learned a lot along the way.''';
 
-Once I had a design in mind, I started working on implementing it. At first, things went smoothly and I was able to make good progress. But when it came time to integrate the API, I hit a snag. I was able to get the correct responses from the API, but displaying the data in the different parts of the UI was much more difficult. With more than seven categories to display, as well as a search feature and news by country support, it was a challenge to manage all the different elements and make sure everything was working properly.
-
-I also ran into a simple error that took me two days to solve. It was a null data error that I couldn't figure out at first. But after investing a lot of time and effort into solving it, I finally realized that I just had to use some simple if-else conditions to fix the problem.
-
-Overall, working on my news app was a challenging and rewarding experience. Despite the difficulties I faced, I was able to create a finished product that I was proud of, and I learned a lot along the way.''';
 const String newsAppText =
     '''As I sat at my desk, staring at the blank screen in front of me, I knew I had to come up with a way to showcase my skills as a self-taught Flutter developer. That's when the idea for a news app hit me. I was determined to create something that would not only demonstrate my abilities, but also provide a valuable resource for users looking to stay informed about the latest happenings from around the world.
 \nAfter a week of hard work and long hours, my news app was finally complete. And as I navigated through its sleek and user-friendly interface, I knew I had created something special.
