@@ -3,6 +3,7 @@
  <img width="100px" src="https://play-lh.googleusercontent.com/q0TPfloZJnXSXrJzf-zrw8ej5oiszWZOov55owCkNy5NBS_DXo6pGnd4UalidZn1yqI=w240-h480-rw" align="center" alt="" />
  <h2 align="center">Newscaster</h2>
  <p align="center">A News Application with Flutter!</p>
+ <p  align="center" <a href='https://play.google.com/store/apps/details?id=com.rajatkhoware.newscaster'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a> </p>
 </p>
 
 # About
